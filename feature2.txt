@@ -1,1 +1,2 @@
-"content for feature2" 
+content for feature2 file 
+
